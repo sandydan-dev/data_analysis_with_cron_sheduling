@@ -1,0 +1,29 @@
+INFO: User logged in
+ERROR: Failed to connect to database
+WARN: Low disk space
+ERROR: File not found
+INFO: User logged out
+ERROR: Failed to connect to database
+WARN: Low disk space
+ERROR: File not found
+INFO: User logged out
+ERROR: Failed to connect to database
+WARN: Low disk space
+ERROR: File not found
+INFO: User logged out
+ERROR: Failed to connect to database
+WARN: Low disk space
+ERROR: File not found
+INFO: User logged out
+ERROR: Failed to connect to database
+WARN: Low disk space
+ERROR: User logged in failed
+INFO: User logged out
+ERROR: Failed to connect to database
+WARN: Low disk space
+ERROR: User logged in failed
+INFO: User logged out
+ERROR: Failed to connect to database
+WARN: Low disk space
+ERROR: User logged in failed
+INFO: User logged out
