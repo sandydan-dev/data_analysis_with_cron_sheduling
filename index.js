@@ -2,7 +2,6 @@ require("dotenv").config();
 const fs = require("fs");
 
 const { alertEmail, alertThreshold } = require("./config");
-const { count } = require("console");
 
 const filePath = process.env.LOG_FILE_PATH;
 
